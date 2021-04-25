@@ -1,0 +1,178 @@
+Home:
+
+I'M MR. Amarjit Kharga
+Software Developer
+
+Having 6+ Years of good development & Experiences in Developing Web based applications using JAVA 8 and Spring Boot, Micro services, Restful Web services, Kafka, Web Flux, Spring Cloud
+
+Personal Infos:
+
+Name-Amarjit Kumar
+Age-29
+Address-Bangalore
+Mobile No-8892644310
+Mail id- amarjit.kharga2018@gmail.com
+skype id- amarjit.kharga90
+language- Hindi, English
+Nationality- Indian
+Freelance- Available
+
+
+6 + years of experience 
+
+Having 5.6 Years of good development & Experiences in Developing Web based applications using JAVA 8 and Spring Boot, Micro services, Restful Web services, Kafka, Web Flux, Spring Cloud.
+• Worked and grown with Java technology
+• Worked with the micro services architecture, Spring Boot and spring cloud platform, Angular
+• Expertise in analysing the problem, defining the solution and executing the task in the best way
+• Rich experience in development and database designing
+• Proficiency in finding bugs (Debugging) and fixing them
+
+
+5+ completed projects
+
+Project 4
+
+E-Commerce Web Development
+Client
+Safeway offshore, Bangalore
+Role
+Advisory System Analyst
+Period
+Aug 2019 to Till Date
+Parent Company
+IBM India Pvt Ltd -Bangalore
+Description
+Spring Boot with microservices web development
+About Project  An ecommerce platform is a software suite that helps you build your ecommerce store where you make your products available, and where your customers can conduct transactions. Choosing the right ecommerce platform is vital to any online business as it is the very foundation of the business
+Responsibilities
+ Worked with Spring boot and micro services architecture
+ Enabled swagger for easy accessing/testing/Documentation of the APIs, actuator for monitoring the health and logs of the application
+ From the build deployment in dev, qa to production, taken the ownership and done that successfully before the deadline comes.
+ Proactively found issues in the different environments and fixed them up before it reaches the escalation.
+ Customizations and New Implementation of E-commerce Application based on Java, Spring Boot, Microservices, Web Flux, MongoDB, Kafka, AWS Cloud, PCF, Angular
+
+Project 3
+
+Telecom – VoIP2.0 - Order Provisioning workflow
+Company
+Infosys Limited - Bangalore
+Period
+Aug 2018 to Jul 2019
+Role
+Senior Systems Engineer
+Description
+The software is basically an end to end automated workflow for the order creation of VoIP phones.
+About Project
+ This software is an upgraded version of order provisioning application. There were major design changes between existing and current system.
+ Flow starts from the front end and it passes through several micro services and finally it will reach the Bonita workflow.
+Responsibilities
+ Worked with advanced level Java for backend web development
+ Worked with Spring boot and micro services architecture
+ Working closely with requirement team to understand the business requirement and convert the same to use case or technical requirements
+ Involved in project module planning, Design and execution of module
+ Analyse the application based on business logic
+
+Project 2
+
+Bank of India e-Banking Customization, Mumbai
+Company
+Miscot System Private Limited - Mumbai
+Period
+February 2018 to July 2018
+Role
+Senior Software Developer
+Description
+Customization e-Banking application based on Java
+About Project
+ This project Internet banking applications use languages like Java Server Pages, J2EE, Java, Enterprise Beans, Oracle database to develop apps where all banking customers can login from a secured web using login id and password, as provided by the bank while opening an account and use Internet Banking Functionality
+Responsibilities
+ Worked with Addressing technical issues of the bank.
+ Used to Java batches state Tax and TAX payments customization using Java
+
+Project 1
+
+Vijaya Bank e-Banking Customization, Bengaluru
+Company
+Nurture Software Solutions Pvt Ltd – Bangalore
+Period
+Dec 2015 to Feb 2018
+Role
+Software Developer
+Description
+Customization e-Banking application based on Java, Finacle FEBA
+About Project  This project Internet banking applications use languages like Java Server Pages, J2EE, Java, Enterprise Beans, Oracle database to develop apps where all banking customers can login from a secured web using login id and password, as provided by the bank while opening an account and use Internet Banking Functionality
+Responsibilities
+ Interacting with client and understanding the business requirements.
+ Developed SMS Alerts for while user initiate the Scheduled Transactions First time alert, One day before alert and One hour before alert for Retail and Corporate Users.
+ Developed Batch Programs for One day before alert, One hour before alert and Transaction Status alert for End Users.
+ Developed Beneficiary Cooling Period within this cooling period end user can be modify/delete beneficiary details before the cooling period.
+ Developed Lower limit for financial transactions post cooling period.
+ Developed IP Address Validation Whenever End User login into the net banking in Different location (miss match the IP) rise the Challenging Questions.
+
+
+5+ Happy Customers
+
+Safeway Retail E-commerce offshore Development, Bangalore
+
+Telecom – VoIP2.0 - Order Provisioning workflow, Bangalore
+
+Bank of India e-Banking Customization, Mumbai
+
+Vijaya Bank e-Banking Customization, Bengaluru
+
+
+4+ Awarded won
+
+Bigdata Awarded
+Java Awarded
+rookie award
+Web Based application 
+
+
+
+Skills:
+
+Java  90%
+springBoot 80%
+microservices 75%
+Restful 80%
+Kafka 80%
+Angular 70%
+Devops 60%
+Aws Cloud 70%
+
+experiance & Education:
+
+Nurture Software Solutions Pvt Ltd – Bangalore
+Dec 2015 to Feb 2018
+Customization e-Banking application based on Java, Finacle FEBA
+
+Miscot System Private Limited - Mumbai
+February 2018 to July 2018
+Customization e-Banking application based on Java
+
+Infosys Limited - Bangalore
+Aug 2018 to Jul 2019
+The software is basically an end to end automated workflow for the order creation of VoIP phones
+
+IBM India Pvt Ltd -Bangalore
+Aug 2019 to Till Date
+Spring Boot with microservices web development
+
+
+Education:
+
+2010-2014
+Engineering Degree Rajasthan Technical University,Rajasthan
+Stream : Information Technology
+
+2008-2010
+12th CBSE Darbhanga,Bihar
+Stream-: Science
+
+2007-2007
+10th BSEB Darbhanga, Bihar
+Stream : Science 
+
+
+ 
